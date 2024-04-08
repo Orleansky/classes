@@ -1,0 +1,7 @@
+C:\Users\LK10725\Desktop\АиЯП\CLASSES\CLASSES\bin\Debug\CLASSES.exe.config
+C:\Users\LK10725\Desktop\АиЯП\CLASSES\CLASSES\bin\Debug\CLASSES.exe
+C:\Users\LK10725\Desktop\АиЯП\CLASSES\CLASSES\bin\Debug\CLASSES.pdb
+C:\Users\LK10725\Desktop\АиЯП\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.AssemblyReference.cache
+C:\Users\LK10725\Desktop\АиЯП\CLASSES\CLASSES\obj\Debug\CLASSES.csproj.CoreCompileInputs.cache
+C:\Users\LK10725\Desktop\АиЯП\CLASSES\CLASSES\obj\Debug\CLASSES.exe
+C:\Users\LK10725\Desktop\АиЯП\CLASSES\CLASSES\obj\Debug\CLASSES.pdb
